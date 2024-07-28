@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a6d0e89-6565-4494-a7ab-4440a35f7ac8" name="Changes" comment="first commit 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jeSfkB78WXZ8sF8NMoIEEHScFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ForgotPasswordTest.executor": "Run",
+    "TestNG.ForgotPasswordTest.verifyForgotPasswordPage.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.verifyLogOutBtnDisplayed.executor": "Run",
+    "TestNG.LoginTest.verifyLoginWithValidUsernamePassword.executor": "Run",
+    "git-widget-placeholder": "Automation-branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ritup/IdeaProjects/AutomationProject_26_March_24/src/main/resources/drivers",
+    "onboarding.tips.debug.path": "C:/Users/Ritup/IdeaProjects/AutomationProject_26_March_24/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ritup\IdeaProjects\AutomationProject_26_March_24\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ForgotPasswordTest">
+    <configuration name="ForgotPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_26_March_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.ForgotPasswordTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTest.verifyForgotPasswordPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_26_March_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.ForgotPasswordTest" />
+      <option name="METHOD_NAME" value="verifyForgotPasswordPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_26_March_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyLogOutBtnDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_26_March_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.LoginTest" />
+      <option name="METHOD_NAME" value="verifyLogOutBtnDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyLoginWithValidUsernamePassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_26_March_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.LoginTest" />
+      <option name="METHOD_NAME" value="verifyLoginWithValidUsernamePassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ForgotPasswordTest" />
+        <item itemvalue="TestNG.ForgotPasswordTest.verifyForgotPasswordPage" />
+        <item itemvalue="TestNG.LoginTest.verifyLogOutBtnDisplayed" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.verifyLoginWithValidUsernamePassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a6d0e89-6565-4494-a7ab-4440a35f7ac8" name="Changes" comment="" />
+      <created>1721746158660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721746158660</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1722171109958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722171109958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit 1">
+      <option name="closed" value="true" />
+      <created>1722173486372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722173486372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="first commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit 1" />
+  </component>
+</project>
